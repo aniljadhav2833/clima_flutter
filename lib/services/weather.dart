@@ -2,7 +2,7 @@ import 'package:clima_flutter/services/location.dart';
 import 'package:clima_flutter/services/networking.dart';
 
 const openWeatherURL = 'https://api.openweathermap.org/data/2.5/weather';
-const apiKey = '42b823ab4fc7b2cf8db58ca0b92319d5';
+const apiKey = '';
 
 //'https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}'
 
